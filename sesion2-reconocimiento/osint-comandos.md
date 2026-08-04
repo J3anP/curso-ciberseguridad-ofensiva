@@ -1,4 +1,4 @@
-# 🔍 OSINT Cheatsheet — Sesión 2
+# 🔍 OSINT Cheatsheet - Sesión 2
 
 Recolección de información pública, sin interactuar directamente con el objetivo (reconocimiento pasivo).
 
