@@ -1,4 +1,4 @@
-# 🛰️ Nmap Cheatsheet — Sesión 2
+# 🛰️ Nmap Cheatsheet - Sesión 2
 
 Referencia rápida de los escaneos que vamos a usar contra Metasploitable2 en el laboratorio.
 
