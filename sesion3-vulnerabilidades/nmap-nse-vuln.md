@@ -1,4 +1,4 @@
-# 🩻 Detección de Vulnerabilidades — Sesión 3
+# 🩻 Detección de Vulnerabilidades - Sesión 3
 
 ---
 
