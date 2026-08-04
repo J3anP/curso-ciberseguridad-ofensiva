@@ -1,4 +1,4 @@
-# 🩷 Sesión 2 — Reconocimiento (OSINT + Footprinting)
+# 🩷 Sesión 2 - Reconocimiento (OSINT + Footprinting)
 
 ![Espada de la sesión](./assets/espada-rosa.jpg)
 <!-- 📸 INSERTA AQUÍ: foto-espada-rosa.jpg dentro de la carpeta assets/ de esta sesión -->
