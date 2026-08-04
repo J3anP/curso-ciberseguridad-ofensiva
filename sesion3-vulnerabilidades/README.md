@@ -1,4 +1,4 @@
-# 🟣 Sesión 3 — Análisis y Escaneo de Vulnerabilidades
+# 🟣 Sesión 3 - Análisis y Escaneo de Vulnerabilidades
 
 ![Espada de la sesión](./assets/espada-purpura.jpg)
 <!-- 📸 INSERTA AQUÍ: foto-espada-purpura.jpg dentro de la carpeta assets/ de esta sesión -->
