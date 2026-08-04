@@ -1,4 +1,4 @@
-# 🗂️ Searchsploit (Exploit-DB local) — Sesión 3
+# 🗂️ Searchsploit (Exploit-DB local) - Sesión 3
 
 `searchsploit` viene preinstalado en Kali y permite buscar exploits públicos sin salir a internet (usa una copia local de Exploit-DB).
 
